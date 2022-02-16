@@ -1,24 +1,52 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Ruby-red)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog App
 
-Things you may want to cover:
+> 
 
-* Ruby version
+## Milestone 1:
 
-* System dependencies
+Created a new rails app. <br>
+Followed gitflow <br>
+Setup PostgreSQL database. <br>
+For each URL: 
+ - A route.
+ - Action in the correct controller.
+ - A view file.
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby On Rails
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+Open your termnial and run the following command:
 
-* Services (job queues, cache servers, search engines, etc.)
+<code>git clone https://github.com/CarlosE-Feliz/Rails-blog-app.git</code>
 
-* Deployment instructions
+### Prerequisites
 
-* ...
+- Ruby
+- Terminal
+
+## Author
+
+👤 **Carlos Elim Feliz**
+
+- GitHub: [@Carlos E. Feliz](https://github.com/CarlosE-Feliz)
+
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
